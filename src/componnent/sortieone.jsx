@@ -1,8 +1,8 @@
 import React from "react";
 function SortieOne(){
     return<>
-    <div className="h-[80vh] w-[40%]">
-        <div className="h-[40vh]">!!FLUX IMPOSIBLE
+    <div className="custom-size">
+        <div className="h">!!FLUX IMPOSIBLE
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Delectus vel quidem molestias necessitatibus! Earum a quidem voluptatum perferendis illum quod, 
                 ipsum tempora commodi reiciendis deleniti, ea autem nisi ex mollitia!
