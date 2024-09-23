@@ -2,7 +2,7 @@ import React from "react";
 
 function Enter(){
     return<>
-    <div className="m-[40%] flex w-[20%] flex-col">
+    <div className="w-[40%] flex h-[20vh] flex-col">
     <div>
         <label for="currency" class="sr-only">Patrimoine</label>
         <select id="currency" name="Patrimoine" >
